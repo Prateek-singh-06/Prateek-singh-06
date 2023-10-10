@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prateek-singh-06
 - 👀 I’m interested in web development , app development and competitive programming
-- 🌱 I’m currently learning web  development and DSA
+- 🌱 I’m currently learning web  development and app development
 - 📫 How to reach me email-prateek99555@gmail.com
 
 <!---
